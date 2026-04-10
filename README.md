@@ -1,0 +1,2 @@
+# CRUD-Operations-with-EJS-Server-Side-Rendering-PROFILE-CREATE-READ-UPDATE-DELETE-
+🚀 Built a CRUD User Management App using Node.js, Express, MongoDB, and EJS. Implemented server-side rendering with dynamic user data and a responsive UI using Tailwind CSS. Strengthened skills in backend routing, database integration, and full-stack development. 💻🔥  #NodeJS #MongoDB #EJS #FullStack #WebDevelopment
