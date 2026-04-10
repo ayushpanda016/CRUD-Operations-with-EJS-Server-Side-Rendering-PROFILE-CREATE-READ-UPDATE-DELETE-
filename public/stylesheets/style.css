@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+div{
+    padding: 15px;
+}
+h1{
+    margin-bottom: 10px;
+}
+input #create{
+    height: fit-content;
+    width : fit-content;
+}
+a{
+    margin: 1px;
+}
